@@ -4,7 +4,8 @@
   "ignore": [],
   "homepage": "https://github.com/onlinesid/onlinesid-autocomplete",
   "authors": [
-    "Goscha Graf <justgoscha@gmail.com>"
+    "Goscha Graf <justgoscha@gmail.com>",
+    "Sid Bachtiar <sid.bachtiar@gmail.com>"
   ],
   "description": "Simple to use autocomplete directive in a module for AngularJs!",
   "keywords": [
