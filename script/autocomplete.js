@@ -252,7 +252,7 @@ app.directive('autocomplete', function() {
             tabindex="{{ attrs.tabindex }}"\
             id="{{ attrs.inputid }}"\
             name="{{ attrs.name }}"\
-            ng-required="{{ autocompleteRequired }}" />\
+            ng-required="{{ autocompleteRequired }}" autocomplete="off" />\
           <ul ng-if="!noAutoSort" ng-show="completing && (suggestions | filter:searchFilter).length > 0">\
             <li\
               suggestion\
